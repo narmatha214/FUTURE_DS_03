@@ -1,0 +1,50 @@
+# FUTURE_DS_03 - Marketing Funnel & Conversion Performance Analysis
+
+## Project Overview
+This project was completed as part of the Future Interns Data Science & Analytics Internship (Task 3). The objective was to analyze customer behavior across the marketing funnel, identify conversion drop-offs, and provide actionable recommendations to improve conversion performance using Power BI.
+
+## Tools Used
+- Power BI
+- Microsoft Excel
+
+## Dataset
+E-commerce user events dataset containing:
+- Brand
+- Category
+- Event Time
+- Event Type
+- Price
+- Product ID
+- User ID
+- User Session
+
+## Dashboard Features
+- Funnel Analysis (View → Cart → Purchase)
+- Total Users
+- Total Products
+- Total Brands
+- Event Type Analysis
+- Brand-wise Analysis
+- Revenue Analysis
+- Conversion Performance Metrics
+- Interactive Filters and Slicers
+
+## Key Insights
+- Identified the largest drop-off in the customer journey.
+- Analyzed user behavior across different event types.
+- Compared brand performance and purchase trends.
+- Evaluated conversion performance to identify improvement opportunities.
+
+## Recommendations
+- Improve the stage with the highest user drop-off.
+- Optimize product pages to increase conversions.
+- Focus marketing efforts on high-performing brands and categories.
+- Use targeted campaigns to encourage users to complete purchases.
+
+## Files Included
+- Task 3.pbix
+- Marketing_Funnel_Dataset.xlsx
+- Dashboard Screenshots
+
+## Author
+Narmatha Rajendiran
